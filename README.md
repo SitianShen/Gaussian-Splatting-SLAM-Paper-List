@@ -12,6 +12,7 @@ Keeping track of GS-SLAM works.
 | 2024.11.| PG-SLAM: Photo-realistic and Geometry-aware RGB-D SLAM in Dynamic Environments | RGB-D | | |
 | 2024.11.| GSORB-SLAM: Gaussian Splatting SLAM benefits from ORB features and Transmittance information | RGB-D + Acc Transmittance | | |
 | 2024.11.| GauSPU: 3D Gaussian Splatting Processor for Real-Time SLAM Systems | | | Acceleration |
+| 2024.10.| HGS-Mapping: Online Dense Mapping Using Hybrid Gaussian Representation in Urban Scenes |||
 | 2024.10.| RGBDS-SLAM: A RGB-D Semantic Dense SLAM Based on 3D Multi Level Pyramid Gaussian Splatting | RGB-D + Semantic | | |
 | 2024.9. | NEDS-SLAM: A Neural Explicit Dense Semantic SLAM Framework Using 3D Gaussian Splatting | RGB-D + Semantic | | |
 | 2024.9. | Hi-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting | RGB-D + Semantic | |

@@ -3,7 +3,7 @@ Keeping track of GS-SLAM works.
 
 | Date    | Paper    | Supervision    | Supp | Properties |
 |-------------|-------------|-------------|-------------|-------------|
-| 2024.12.| MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors | RGB + 2-View Reconstruction Prior | [Website]([https://vladimiryugay.github.io/magic_slam/](https://edexheim.github.io/mast3r-slam/)) | |
+| 2024.12.| MASt3R-SLAM: Real-Time Dense SLAM with 3D Reconstruction Priors | RGB + 2-View Reconstruction Prior | [Website](https://edexheim.github.io/mast3r-slam/) | |
 | 2024.12.| RP-SLAM: Real-time Photorealistic SLAM with Efficient 3D Gaussian Splatting | RGB-D | | |
 | 2024.11.| MAGiC-SLAM: Multi-Agent Gaussian Globally Consistent SLAM | RGB-D | [Website](https://vladimiryugay.github.io/magic_slam/) | Multi-Agent |
 | 2024.11.| Gassidy: Gaussian Splatting SLAM in Dynamic Environments | RGB-D | | Dynamic |

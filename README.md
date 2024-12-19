@@ -23,7 +23,7 @@ Keeping track of GS-SLAM works.
 | 2024.3. | EndoGSLAM: Real-Time Dense Reconstruction and Tracking in Endoscopic Surgeries using Gaussian Splatting | RGB-D | [Code](https://github.com/Loping151/EndoGSLAM) | |
 | 2024.3. | SemGauss-SLAM: Dense Semantic Gaussian Splatting SLAM | RGB-D + Semantic | |
 | 2024.3. | Compact 3D Gaussian Splatting For Dense Visual SLAM | RGB-D | | Compression |
-| 2024.3. | CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field | RGB-D | [Code](https://github.com/hjr37/CG-SLAM) |
+| 2024.3. | CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field | RGB-D | [Code](https://github.com/hjr37/CG-SLAM) | Uncertainty-aware|
 | 2024.2. | MoD-SLAM: Monocular Dense Mapping for Unbounded 3D Scene Reconstruction | RGB | |
 | 2024.2. | SGS-SLAM: Semantic Gaussian Splatting For Neural Dense SLAM | RGB-D + Semantic | Y |
 | 2024.1. | LIV-GaussMap: LiDAR-Inertial-Visual Fusion for Real-Time 3D Radiance Field Map Rendering | LiDAR + RGB + Semantic | Y |

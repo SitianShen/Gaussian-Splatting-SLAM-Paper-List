@@ -2,7 +2,7 @@
 Keeping track of GS-SLAM works.
 
 | Date    | Paper    | Supervision    | Supp | Properties |
-|-------------|-------------|-------------|-------------|
+|-------------|-------------|-------------|-------------|-------------|
 | 2024.11.| Gassidy: Gaussian Splatting SLAM in Dynamic Environments | RGB-D | | Dynamic |
 | 2024.11.| DG-SLAM: Robust Dynamic Gaussian Splatting SLAM with Hybrid Pose Optimization | RGB-D | | |
 | 2024.11.| MBA-SLAM: Motion Blur Aware Dense Visual SLAM with Radiance Fields Representation | RGB-D | | |

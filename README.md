@@ -17,6 +17,7 @@ Keeping track of GS-SLAM works.
 | 2024.9. | Hi-SLAM: Scaling-up Semantics in SLAM with a Hierarchically Categorical Gaussian Splatting | RGB-D + Semantic | |
 | 2024.6. | VDG: Vision-Only Dynamic Gaussian for Driving Simulation | RGB | [Code](https://github.com/spla-tam/SplaTAM) | |
 | 2024.4. | MM-Gaussian: 3D Gaussian-based Multi-modal Fusion for Localization and Reconstruction in Unbounded Scenes | LiDAR + RGB + Semantic | Y |
+| 2024.3. | EndoGSLAM: Real-Time Dense Reconstruction and Tracking in Endoscopic Surgeries using Gaussian Splatting | RGB-D | [Code](https://github.com/Loping151/EndoGSLAM) | |
 | 2024.3. | SemGauss-SLAM: Dense Semantic Gaussian Splatting SLAM | RGB-D + Semantic | |
 | 2024.3. | Compact 3D Gaussian Splatting For Dense Visual SLAM | RGB-D | | Compression |
 | 2024.3. | CG-SLAM: Efficient Dense RGB-D SLAM in a Consistent Uncertainty-aware 3D Gaussian Field | RGB-D | [Code](https://github.com/hjr37/CG-SLAM) |
